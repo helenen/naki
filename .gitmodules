@@ -1,3 +1,9 @@
 [submodule "naki_webapp"]
 	path = naki_webapp
 	url = https://github.com/helenen/naki_webapp.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/helenen/naki_backend.git
+[submodule "naki_backend"]
+	path = naki_backend
+	url = https://github.com/helenen/naki_backend.git
