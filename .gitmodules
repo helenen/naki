@@ -1,0 +1,3 @@
+[submodule "naki_webapp"]
+	path = naki_webapp
+	url = https://github.com/helenen/naki_webapp.git
