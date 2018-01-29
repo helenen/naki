@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Naki_project.iml" filepath="$PROJECT_DIR$/Naki_project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/naki/naki.iml" filepath="$PROJECT_DIR$/naki/naki.iml" />
     </modules>
   </component>
 </project>
