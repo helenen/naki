@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/naki_backend/src/main/java" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/naki_webapp/dist" />
       <excludeFolder url="file://$MODULE_DIR$/naki_webapp/tmp" />
     </content>
